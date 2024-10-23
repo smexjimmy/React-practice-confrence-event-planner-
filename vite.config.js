@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/React-practice-confrence-event-planner",
+  base: "/React-practice-confrence-event-planner-",
   plugins: [react()],
 })
